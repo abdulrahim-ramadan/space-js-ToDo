@@ -2,7 +2,7 @@
 
 Space JS ToDo is a simple web-based todo list application built with HTML, CSS, and JavaScript. It provides a minimalistic interface for managing your tasks efficiently.
 
-## Features
+## Featuress
 
 - **Add and Remove Tasks:** Easily add new tasks to your todo list and remove them when completed.
 - **Mark Tasks as Complete:** Mark tasks as complete by checking them off from the list.
